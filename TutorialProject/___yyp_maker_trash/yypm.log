@@ -1,0 +1,413 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[27-02-2024 19:05:19] Initialized GameMaker Project: TutorialProject.yyp
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/animcurves
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/extensions
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts
+[27-02-2024 19:05:19] Checking fnt_small
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_small
+[27-02-2024 19:05:19] Checking fnt_large
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_large
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_large
+[27-02-2024 19:05:19] Checking fnt_large.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_large/fnt_large.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_large/fnt_large.yy
+[27-02-2024 19:05:19] Par: "folders/Fonts" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_large/fnt_large.yy"
+[27-02-2024 19:05:19] Found Font: fnt_large
+[27-02-2024 19:05:19] Checking fnt_large.png
+[27-02-2024 19:05:19] Checking fnt_large.old.yy
+[27-02-2024 19:05:19] Trash file: fnt_large.old.yy, will be moved to ___yyp_maker_trash
+[27-02-2024 19:05:19] Checking fnt_large.old.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_small
+[27-02-2024 19:05:19] Checking fnt_small.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_small/fnt_small.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_small/fnt_small.yy
+[27-02-2024 19:05:19] Par: "folders/Fonts" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/fonts/fnt_small/fnt_small.yy"
+[27-02-2024 19:05:19] Found Font: fnt_small
+[27-02-2024 19:05:19] Checking fnt_small.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/notes
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects
+[27-02-2024 19:05:19] Checking obj_player
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_player
+[27-02-2024 19:05:19] Checking obj_manager
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_manager
+[27-02-2024 19:05:19] Checking obj_item_good
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_good
+[27-02-2024 19:05:19] Checking obj_item_bad
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_bad
+[27-02-2024 19:05:19] Checking obj_game
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_game
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_game
+[27-02-2024 19:05:19] Checking Step_0.gml
+[27-02-2024 19:05:19] Checking obj_game.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_game/obj_game.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_game/obj_game.yy
+[27-02-2024 19:05:19] Par: "folders/Objects" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_game/obj_game.yy"
+[27-02-2024 19:05:19] Found Object: obj_game
+[27-02-2024 19:05:19] Checking Draw_0.gml
+[27-02-2024 19:05:19] Checking Create_0.gml
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_bad
+[27-02-2024 19:05:19] Checking Step_0.gml
+[27-02-2024 19:05:19] Checking Other_0.gml
+[27-02-2024 19:05:19] Checking obj_item_bad.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_bad/obj_item_bad.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_bad/obj_item_bad.yy
+[27-02-2024 19:05:19] Par: "folders/Objects" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_bad/obj_item_bad.yy"
+[27-02-2024 19:05:19] Found Object: obj_item_bad
+[27-02-2024 19:05:19] Checking Create_0.gml
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_good
+[27-02-2024 19:05:19] Checking Step_0.gml
+[27-02-2024 19:05:19] Checking Other_0.gml
+[27-02-2024 19:05:19] Checking obj_item_good.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_good/obj_item_good.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_good/obj_item_good.yy
+[27-02-2024 19:05:19] Par: "folders/Objects" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_item_good/obj_item_good.yy"
+[27-02-2024 19:05:19] Found Object: obj_item_good
+[27-02-2024 19:05:19] Checking Create_0.gml
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_manager
+[27-02-2024 19:05:19] Checking obj_manager.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_manager/obj_manager.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_manager/obj_manager.yy
+[27-02-2024 19:05:19] Par: "folders/Objects" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_manager/obj_manager.yy"
+[27-02-2024 19:05:19] Found Object: obj_manager
+[27-02-2024 19:05:19] Checking Create_0.gml
+[27-02-2024 19:05:19] Checking Alarm_1.gml
+[27-02-2024 19:05:19] Checking Alarm_0.gml
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_player
+[27-02-2024 19:05:19] Checking Step_0.gml
+[27-02-2024 19:05:19] Checking obj_player.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_player/obj_player.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_player/obj_player.yy
+[27-02-2024 19:05:19] Par: "folders/Objects" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/objects/obj_player/obj_player.yy"
+[27-02-2024 19:05:19] Found Object: obj_player
+[27-02-2024 19:05:19] Checking Create_0.gml
+[27-02-2024 19:05:19] Checking Collision_obj_item_good.gml
+[27-02-2024 19:05:19] Checking Collision_obj_item_bad.gml
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options
+[27-02-2024 19:05:19] Checking windows
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/windows
+[27-02-2024 19:05:19] Checking tvos
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/tvos
+[27-02-2024 19:05:19] Checking operagx
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/operagx
+[27-02-2024 19:05:19] Checking main
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/main
+[27-02-2024 19:05:19] Checking mac
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/mac
+[27-02-2024 19:05:19] Checking linux
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/linux
+[27-02-2024 19:05:19] Checking ios
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/ios
+[27-02-2024 19:05:19] Checking html5
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/html5
+[27-02-2024 19:05:19] Checking android
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/android
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/android
+[27-02-2024 19:05:19] Checking options_android.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/android/options_android.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/android/options_android.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/html5
+[27-02-2024 19:05:19] Checking options_html5.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/html5/options_html5.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/html5/options_html5.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/ios
+[27-02-2024 19:05:19] Checking options_ios.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/ios/options_ios.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/ios/options_ios.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/linux
+[27-02-2024 19:05:19] Checking options_linux.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/linux/options_linux.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/linux/options_linux.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/mac
+[27-02-2024 19:05:19] Checking options_mac.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/mac/options_mac.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/mac/options_mac.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/main
+[27-02-2024 19:05:19] Checking options_main.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/main/options_main.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/main/options_main.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/operagx
+[27-02-2024 19:05:19] Checking options_operagx.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/operagx/options_operagx.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/operagx/options_operagx.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/tvos
+[27-02-2024 19:05:19] Checking options_tvos.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/tvos/options_tvos.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/tvos/options_tvos.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/windows
+[27-02-2024 19:05:19] Checking options_windows.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/windows/options_windows.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/options/windows/options_windows.yy
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/paths
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms
+[27-02-2024 19:05:19] Checking Room1
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms/Room1
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms/Room1
+[27-02-2024 19:05:19] Checking Room1.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms/Room1/Room1.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms/Room1/Room1.yy
+[27-02-2024 19:05:19] Par: "folders/Rooms" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/rooms/Room1/Room1.yy"
+[27-02-2024 19:05:19] Found Room: Room1
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/scripts
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sequences
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/shaders
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds
+[27-02-2024 19:05:19] Checking snd_sad_trombone
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_sad_trombone
+[27-02-2024 19:05:19] Checking snd_chaching
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_chaching
+[27-02-2024 19:05:19] Checking snd_bad
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_bad
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_bad
+[27-02-2024 19:05:19] Checking snd_bad.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_bad/snd_bad.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_bad/snd_bad.yy
+[27-02-2024 19:05:19] Par: "folders/Sounds" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_bad/snd_bad.yy"
+[27-02-2024 19:05:19] Found Sound: snd_bad
+[27-02-2024 19:05:19] Checking snd_bad.mp3
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_chaching
+[27-02-2024 19:05:19] Checking snd_chaching.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_chaching/snd_chaching.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_chaching/snd_chaching.yy
+[27-02-2024 19:05:19] Par: "folders/Sounds" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_chaching/snd_chaching.yy"
+[27-02-2024 19:05:19] Found Sound: snd_chaching
+[27-02-2024 19:05:19] Checking snd_chaching.wav
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_sad_trombone
+[27-02-2024 19:05:19] Checking snd_sad_trombone.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_sad_trombone/snd_sad_trombone.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_sad_trombone/snd_sad_trombone.yy
+[27-02-2024 19:05:19] Par: "folders/Sounds" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sounds/snd_sad_trombone/snd_sad_trombone.yy"
+[27-02-2024 19:05:19] Found Sound: snd_sad_trombone
+[27-02-2024 19:05:19] Checking snd_sad_trombone.ogg
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites
+[27-02-2024 19:05:19] Checking spr_player_walk_pt_2
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2
+[27-02-2024 19:05:19] Checking spr_player_walk_pt1
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1
+[27-02-2024 19:05:19] Checking spr_player_walk1
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1
+[27-02-2024 19:05:19] Checking spr_player_test
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test
+[27-02-2024 19:05:19] Checking spr_player_idle
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle
+[27-02-2024 19:05:19] Checking spr_item_good
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good
+[27-02-2024 19:05:19] Checking spr_item_bad
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad
+[27-02-2024 19:05:19] Checking spr_item_bad.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/spr_item_bad.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/spr_item_bad.yy
+[27-02-2024 19:05:19] Par: "folders/Sprites" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/spr_item_bad.yy"
+[27-02-2024 19:05:19] Found Sprite: spr_item_bad
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/layers
+[27-02-2024 19:05:19] Checking 83c8e081-6e76-4d80-977a-c87cc716bdf9.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/layers
+[27-02-2024 19:05:19] Checking 83c8e081-6e76-4d80-977a-c87cc716bdf9
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/layers/83c8e081-6e76-4d80-977a-c87cc716bdf9
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_bad/layers/83c8e081-6e76-4d80-977a-c87cc716bdf9
+[27-02-2024 19:05:19] Checking 17013b7c-e4f2-4e52-8e1f-1fc63a5b9f89.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good
+[27-02-2024 19:05:19] Checking spr_item_good.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/spr_item_good.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/spr_item_good.yy
+[27-02-2024 19:05:19] Par: "folders/Sprites" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/spr_item_good.yy"
+[27-02-2024 19:05:19] Found Sprite: spr_item_good
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/layers
+[27-02-2024 19:05:19] Checking dd4ebb37-87af-45c3-bafa-acd22f33868e.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/layers
+[27-02-2024 19:05:19] Checking dd4ebb37-87af-45c3-bafa-acd22f33868e
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/layers/dd4ebb37-87af-45c3-bafa-acd22f33868e
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_item_good/layers/dd4ebb37-87af-45c3-bafa-acd22f33868e
+[27-02-2024 19:05:19] Checking d78290f4-ca4f-4419-b25f-775ac7dc456f.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle
+[27-02-2024 19:05:19] Checking spr_player_idle.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/spr_player_idle.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/spr_player_idle.yy
+[27-02-2024 19:05:19] Par: "folders/Sprites" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/spr_player_idle.yy"
+[27-02-2024 19:05:19] Found Sprite: spr_player_idle
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/layers
+[27-02-2024 19:05:19] Checking 1ef95d7c-7b98-44d1-bf73-d9f0b24940b5.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/layers
+[27-02-2024 19:05:19] Checking 1ef95d7c-7b98-44d1-bf73-d9f0b24940b5
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/layers/1ef95d7c-7b98-44d1-bf73-d9f0b24940b5
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_idle/layers/1ef95d7c-7b98-44d1-bf73-d9f0b24940b5
+[27-02-2024 19:05:19] Checking 0f9c1e55-2f0e-4423-8fcf-1dc9782f7a61.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test
+[27-02-2024 19:05:19] Checking spr_player_test.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/spr_player_test.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/spr_player_test.yy
+[27-02-2024 19:05:19] Par: "folders/Sprites" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/spr_player_test.yy"
+[27-02-2024 19:05:19] Found Sprite: spr_player_test
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers
+[27-02-2024 19:05:19] Checking fc2abcde-84ca-49af-bea4-e02b03392fd8.png
+[27-02-2024 19:05:19] Checking f87ae0e9-5443-4b02-80f7-06f774c38f0b.png
+[27-02-2024 19:05:19] Checking d4b8e032-6180-4fb0-aee2-8ee87abda3d0.png
+[27-02-2024 19:05:19] Checking c4b723c1-595f-4a6e-be14-4ad631a69910.png
+[27-02-2024 19:05:19] Checking af8cdef9-0320-4cbe-8435-6e91a6f70cb3.png
+[27-02-2024 19:05:19] Checking 5578ea54-d596-426f-955a-c5d039b79e40.png
+[27-02-2024 19:05:19] Checking 36e08cf3-410c-4f71-a8be-138b998c39f0.png
+[27-02-2024 19:05:19] Checking 2fff7559-80f8-4a64-94d0-90d98b662106.png
+[27-02-2024 19:05:19] Checking 020dfa5d-0dfe-4e06-a570-c0c871352a56.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers
+[27-02-2024 19:05:19] Checking fc2abcde-84ca-49af-bea4-e02b03392fd8
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/fc2abcde-84ca-49af-bea4-e02b03392fd8
+[27-02-2024 19:05:19] Checking f87ae0e9-5443-4b02-80f7-06f774c38f0b
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/f87ae0e9-5443-4b02-80f7-06f774c38f0b
+[27-02-2024 19:05:19] Checking d4b8e032-6180-4fb0-aee2-8ee87abda3d0
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/d4b8e032-6180-4fb0-aee2-8ee87abda3d0
+[27-02-2024 19:05:19] Checking c4b723c1-595f-4a6e-be14-4ad631a69910
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/c4b723c1-595f-4a6e-be14-4ad631a69910
+[27-02-2024 19:05:19] Checking af8cdef9-0320-4cbe-8435-6e91a6f70cb3
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/af8cdef9-0320-4cbe-8435-6e91a6f70cb3
+[27-02-2024 19:05:19] Checking 5578ea54-d596-426f-955a-c5d039b79e40
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/5578ea54-d596-426f-955a-c5d039b79e40
+[27-02-2024 19:05:19] Checking 36e08cf3-410c-4f71-a8be-138b998c39f0
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/36e08cf3-410c-4f71-a8be-138b998c39f0
+[27-02-2024 19:05:19] Checking 2fff7559-80f8-4a64-94d0-90d98b662106
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/2fff7559-80f8-4a64-94d0-90d98b662106
+[27-02-2024 19:05:19] Checking 020dfa5d-0dfe-4e06-a570-c0c871352a56
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/020dfa5d-0dfe-4e06-a570-c0c871352a56
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/020dfa5d-0dfe-4e06-a570-c0c871352a56
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/2fff7559-80f8-4a64-94d0-90d98b662106
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/36e08cf3-410c-4f71-a8be-138b998c39f0
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/5578ea54-d596-426f-955a-c5d039b79e40
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/af8cdef9-0320-4cbe-8435-6e91a6f70cb3
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/c4b723c1-595f-4a6e-be14-4ad631a69910
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/d4b8e032-6180-4fb0-aee2-8ee87abda3d0
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/f87ae0e9-5443-4b02-80f7-06f774c38f0b
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_test/layers/fc2abcde-84ca-49af-bea4-e02b03392fd8
+[27-02-2024 19:05:19] Checking db78d04b-0357-4cff-8162-12d07b1ec12a.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1
+[27-02-2024 19:05:19] Checking spr_player_walk1.yy
+[27-02-2024 19:05:19] Parsing C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/spr_player_walk1.yy
+[27-02-2024 19:05:19] Reading C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/spr_player_walk1.yy
+[27-02-2024 19:05:19] Par: "folders/Sprites" at dir: "C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/spr_player_walk1.yy"
+[27-02-2024 19:05:19] Found Sprite: spr_player_walk1
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers
+[27-02-2024 19:05:19] Checking fe49b540-ef2d-4b19-bd27-8a2a069b1428.png
+[27-02-2024 19:05:19] Checking cc957554-e97a-4467-bb6e-dd22652482fb.png
+[27-02-2024 19:05:19] Checking c957aae0-d0a4-4171-93c9-665cf3350465.png
+[27-02-2024 19:05:19] Checking c6105206-5c5a-4161-acf4-3e1200ee0224.png
+[27-02-2024 19:05:19] Checking 986b2802-d738-4c2a-bdad-772c5f2918c6.png
+[27-02-2024 19:05:19] Checking 818fd9e3-424d-43a6-95d0-d26c23a8c3d9.png
+[27-02-2024 19:05:19] Checking 7fe1506a-c590-485f-a637-bf931ad5e35e.png
+[27-02-2024 19:05:19] Checking 425ca416-6638-4da9-898c-0c14801ffa74.png
+[27-02-2024 19:05:19] Checking 2672bd19-3844-4a2e-8a24-ced35e4c4f62.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers
+[27-02-2024 19:05:19] Checking fe49b540-ef2d-4b19-bd27-8a2a069b1428
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/fe49b540-ef2d-4b19-bd27-8a2a069b1428
+[27-02-2024 19:05:19] Checking cc957554-e97a-4467-bb6e-dd22652482fb
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/cc957554-e97a-4467-bb6e-dd22652482fb
+[27-02-2024 19:05:19] Checking c957aae0-d0a4-4171-93c9-665cf3350465
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/c957aae0-d0a4-4171-93c9-665cf3350465
+[27-02-2024 19:05:19] Checking c6105206-5c5a-4161-acf4-3e1200ee0224
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/c6105206-5c5a-4161-acf4-3e1200ee0224
+[27-02-2024 19:05:19] Checking 986b2802-d738-4c2a-bdad-772c5f2918c6
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/986b2802-d738-4c2a-bdad-772c5f2918c6
+[27-02-2024 19:05:19] Checking 818fd9e3-424d-43a6-95d0-d26c23a8c3d9
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/818fd9e3-424d-43a6-95d0-d26c23a8c3d9
+[27-02-2024 19:05:19] Checking 7fe1506a-c590-485f-a637-bf931ad5e35e
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/7fe1506a-c590-485f-a637-bf931ad5e35e
+[27-02-2024 19:05:19] Checking 425ca416-6638-4da9-898c-0c14801ffa74
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/425ca416-6638-4da9-898c-0c14801ffa74
+[27-02-2024 19:05:19] Checking 2672bd19-3844-4a2e-8a24-ced35e4c4f62
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/2672bd19-3844-4a2e-8a24-ced35e4c4f62
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/2672bd19-3844-4a2e-8a24-ced35e4c4f62
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/425ca416-6638-4da9-898c-0c14801ffa74
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/7fe1506a-c590-485f-a637-bf931ad5e35e
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/818fd9e3-424d-43a6-95d0-d26c23a8c3d9
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/986b2802-d738-4c2a-bdad-772c5f2918c6
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/c6105206-5c5a-4161-acf4-3e1200ee0224
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/c957aae0-d0a4-4171-93c9-665cf3350465
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/cc957554-e97a-4467-bb6e-dd22652482fb
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk1/layers/fe49b540-ef2d-4b19-bd27-8a2a069b1428
+[27-02-2024 19:05:19] Checking 63314e5f-b79c-4c9c-b65e-e3b1d961fc71.png
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers
+[27-02-2024 19:05:19] Checking e55c65ef-f58a-431c-92d3-f9b55d85c423
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers/e55c65ef-f58a-431c-92d3-f9b55d85c423
+[27-02-2024 19:05:19] Checking cc709425-47c9-4139-b564-be86553b6283
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers/cc709425-47c9-4139-b564-be86553b6283
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers/cc709425-47c9-4139-b564-be86553b6283
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt1/layers/e55c65ef-f58a-431c-92d3-f9b55d85c423
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2
+[27-02-2024 19:05:19] Checking layers
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers
+[27-02-2024 19:05:19] Checking eb8fd64e-5764-46dc-94fd-eb8ee376bd98
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/eb8fd64e-5764-46dc-94fd-eb8ee376bd98
+[27-02-2024 19:05:19] Checking cb88a1e7-0235-4bf4-98ad-2f1e680c6e14
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/cb88a1e7-0235-4bf4-98ad-2f1e680c6e14
+[27-02-2024 19:05:19] Checking c17c041f-4ef9-40ed-9135-0905f21f31c7
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/c17c041f-4ef9-40ed-9135-0905f21f31c7
+[27-02-2024 19:05:19] Checking aac70b42-af0e-440c-a658-51a7a5b63d9f
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/aac70b42-af0e-440c-a658-51a7a5b63d9f
+[27-02-2024 19:05:19] Checking aa38b91e-dff9-470b-bc33-f30793892d18
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/aa38b91e-dff9-470b-bc33-f30793892d18
+[27-02-2024 19:05:19] Checking 9a252818-9b63-439e-b5b1-2e11c700fa74
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/9a252818-9b63-439e-b5b1-2e11c700fa74
+[27-02-2024 19:05:19] Checking 7a137223-da0e-4374-a534-9208d440aab6
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/7a137223-da0e-4374-a534-9208d440aab6
+[27-02-2024 19:05:19] Checking 5f264995-b544-4e0a-9a73-d1b5df73eeff
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/5f264995-b544-4e0a-9a73-d1b5df73eeff
+[27-02-2024 19:05:19] Checking 5a46f28e-7823-451a-905a-176f155b3720
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/5a46f28e-7823-451a-905a-176f155b3720
+[27-02-2024 19:05:19] Checking 4091507d-bcb2-46f1-a26c-1e335f743121
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/4091507d-bcb2-46f1-a26c-1e335f743121
+[27-02-2024 19:05:19] Checking 184d4411-6a1b-4b9f-b13a-2c4375e8420b
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/184d4411-6a1b-4b9f-b13a-2c4375e8420b
+[27-02-2024 19:05:19] Checking 18022519-0739-4207-a60d-79bfdc067760
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/18022519-0739-4207-a60d-79bfdc067760
+[27-02-2024 19:05:19] Checking 0eedad5e-b799-4cc4-ab31-6fe51f39232f
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/0eedad5e-b799-4cc4-ab31-6fe51f39232f
+[27-02-2024 19:05:19] Checking 0691b2db-4f86-49bc-996d-eec419539349
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/0691b2db-4f86-49bc-996d-eec419539349
+[27-02-2024 19:05:19] Checking 05bab131-b88e-42f4-9687-17c299cd7e90
+[27-02-2024 19:05:19] Directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/05bab131-b88e-42f4-9687-17c299cd7e90
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/05bab131-b88e-42f4-9687-17c299cd7e90
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/0691b2db-4f86-49bc-996d-eec419539349
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/0eedad5e-b799-4cc4-ab31-6fe51f39232f
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/18022519-0739-4207-a60d-79bfdc067760
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/184d4411-6a1b-4b9f-b13a-2c4375e8420b
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/4091507d-bcb2-46f1-a26c-1e335f743121
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/5a46f28e-7823-451a-905a-176f155b3720
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/5f264995-b544-4e0a-9a73-d1b5df73eeff
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/7a137223-da0e-4374-a534-9208d440aab6
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/9a252818-9b63-439e-b5b1-2e11c700fa74
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/aa38b91e-dff9-470b-bc33-f30793892d18
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/aac70b42-af0e-440c-a658-51a7a5b63d9f
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/c17c041f-4ef9-40ed-9135-0905f21f31c7
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/cb88a1e7-0235-4bf4-98ad-2f1e680c6e14
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/sprites/spr_player_walk_pt_2/layers/eb8fd64e-5764-46dc-94fd-eb8ee376bd98
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/tilesets
+[27-02-2024 19:05:19] Current parent directory: C:/Users/A.Aidus/Documents/GitHub/ARTS286/TutorialProject/timelines
+[27-02-2024 19:05:19] Moving files to trash...
+[27-02-2024 19:05:19] Files yeeted successfully!
+[27-02-2024 19:05:19] Generating YYP...
+[27-02-2024 19:05:19] TutorialProject.yyp created successfully!
