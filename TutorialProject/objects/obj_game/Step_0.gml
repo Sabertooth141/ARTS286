@@ -1,12 +1,11 @@
-if (global.gameover && !trombones_played) {
-	audio_stop_sound(snd_mus_bgm);
-	audio_play_sound(snd_sad_trombone, 1, false);
-	trombones_played = true;
-}
-
 if (global.gameover && !trombones_played && global.win) {
-	audio_play_sound(snd_sad_trombone, 1, false);
+	audio_stop_sound(snd_mus_bgm);
+	audio_play_sound(snd_win, 1, false);
 	trombones_played = true;
+} else if (global.gameover && !trombones_played) {
+	audio_stop_sound(snd_mus_bgm);
+	audio_play_sound(snd_lose, 1, false);
+	trombones_played = true;	
 }
 
 if (keyboard_check(ord("R"))) {

@@ -1,15 +1,40 @@
 vspeed += gravity;
 
-if (keyboard_check(vk_left)) {
-	hspeed = -5;
-} else if (keyboard_check(vk_right)) {
-	hspeed = 5;
-} else {
-	hspeed = 0;
+if (keyboard_check_pressed(vk_shift) && !is_dashing && dash_cd_timer <= 0) {
+	is_dashing = true;
+	dash_timer = dash_duration;
+	dash_cd_timer = dash_cd;
 }
 
-if (keyboard_check_pressed(vk_space) && is_on_ground) {
+if (is_dashing) {
+	dash_timer--;
+	image_alpha = .4;
+	if (dash_timer <= 0) {
+		is_dashing = false;
+		image_alpha = 1;
+	}
+}
+
+if (dash_cd_timer > 0) {
+	dash_cd_timer--;
+}
+
+if (is_dashing) {
+	var _dash_direction = image_xscale;
+	hspeed = dash_speed * _dash_direction;
+} else {
+	
+	if (keyboard_check(vk_left)) {
+		hspeed = -5;
+	} else if (keyboard_check(vk_right)) {
+		hspeed = 5;
+	} else {
+		hspeed = 0;	
+	}
+	
+	if (keyboard_check_pressed(vk_space) && is_on_ground) {
 	vspeed = -35;
+	}
 }
 
 if (hspeed == 0) {
@@ -24,7 +49,6 @@ if (hspeed == 0) {
 	image_xscale = hspeed > 0 ? .5 : -.5;
 	
 }
-
 
 if (x + hspeed >= (room_width - 100) || x + hspeed <= 100) {
 	hspeed = 0;

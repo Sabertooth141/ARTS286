@@ -10,9 +10,7 @@ if (global.gameover && global.win) {
 	draw_set_font(fnt_large);
 	draw_text(room_width / 2, room_height / 2, string("YOU WIN"));
 	draw_text(room_width / 2, room_height / 3, string("PRESS R TO RESTART"));
-}
-
-if (global.gameover) {
+} else if (global.gameover) {
 	draw_set_font(fnt_large);
 	draw_text(room_width / 2, room_height / 2, string("GAME OVER"));
 	draw_text(room_width / 2, room_height / 3, string("PRESS R TO RESTART"));
